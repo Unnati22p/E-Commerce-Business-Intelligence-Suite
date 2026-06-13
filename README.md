@@ -49,16 +49,16 @@ This project demonstrates:
 ## Screenshots
 
 ### Project Overview
-![Project Overview](screenshots/project_overview.png)
+![Project Overview](project_overview.png)
 
 ### Revenue Trend Analysis
-![Revenue Trend](screenshots/revenue_trend.png)
+![Revenue Trend](revenue_trend.png)
 
 ### Top Product Categories
-![Top Product Categories](screenshots/top_product_categories.png)
+![Top Product Categories](top_product_categories.png)
 
 ### Geographic Customer Distribution
-![Customer Distribution](screenshots/customer_distribution_by_state.png)
+![Customer Distribution](customer_distribution_by_state.png)
 
 ### Customer Review Score Distribution
-![Review Score Distribution](screenshots/review_score_distribution.png)
+![Review Score Distribution](review_score_distribution.png)
