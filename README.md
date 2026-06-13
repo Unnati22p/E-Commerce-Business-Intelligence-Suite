@@ -1,57 +1,64 @@
 📊 E-Commerce Business Intelligence Suite
 
-Project Overview
+## Project Overview
 
 This project analyzes customer behavior, revenue trends, product performance, delivery efficiency, and customer satisfaction using the Brazilian Olist E-Commerce dataset.
 
 The goal is to generate business insights that can help improve decision-making, customer experience, and overall business performance.
 
-⸻
+## Business Questions
 
-Business Questions
+- How much revenue does the business generate?
+- Which product categories contribute the most revenue?
+- Where are customers concentrated geographically?
+- How satisfied are customers?
+- How efficient is the delivery process?
 
-* How much revenue does the business generate?
-* Which product categories contribute the most revenue?
-* Where are customers concentrated geographically?
-* How satisfied are customers?
-* How efficient is the delivery process?
+## Technologies Used
 
-⸻
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-Technologies Used
+## Key Insights
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+- Revenue shows a strong growth trend over time.
+- A small number of product categories generate most revenue.
+- Customer concentration is highest in a few major states.
+- Average customer review score is above 4.
+- Delivery performance impacts customer satisfaction.
 
-⸻
-
-Key Insights
-
-* Revenue shows a strong growth trend over time.
-* A small number of product categories generate most revenue.
-* Customer concentration is highest in a few major states.
-* Average customer review score is above 4.
-* Delivery performance impacts customer satisfaction.
-
-⸻
-
-Dataset
+## Dataset
 
 Brazilian Olist E-Commerce Public Dataset from Kaggle.
 
-⸻
-
-Project Outcomes
+## Project Outcomes
 
 This project demonstrates:
 
-* Exploratory Data Analysis (EDA)
-* Business Intelligence Reporting
-* Data Visualization
-* Customer Analytics
-* Revenue Analytics
-* Business Insight Generation
+- Exploratory Data Analysis (EDA)
+- Business Intelligence Reporting
+- Data Visualization
+- Customer Analytics
+- Revenue Analytics
+- Business Insight Generation
+
+## Screenshots
+
+### Project Overview
+![Project Overview](screenshots/project_overview.png)
+
+### Revenue Trend Analysis
+![Revenue Trend](screenshots/revenue_trend.png)
+
+### Top Product Categories
+![Top Product Categories](screenshots/top_product_categories.png)
+
+### Geographic Customer Distribution
+![Customer Distribution](screenshots/customer_distribution_by_state.png)
+
+### Customer Review Score Distribution
+![Review Score Distribution](screenshots/review_score_distribution.png)
